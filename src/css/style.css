@@ -64,7 +64,7 @@ body{
 }
 
 .hero:after{
-    content: url(../images/seta_preta.png);
+    content: url(./src/images/seta_preta.png);
     position: absolute;
     height: 35px;
     bottom: 40px;
